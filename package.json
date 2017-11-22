@@ -1,0 +1,16 @@
+{
+  "name": "node-telegram-bot-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate for telegram bots",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "telegraf": "^3.16.0"
+  }
+}

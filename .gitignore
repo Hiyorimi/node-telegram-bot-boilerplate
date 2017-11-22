@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.swo
+.env
+.idea
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+.vscode
+
+node_modules
+npm-debug.*
+
